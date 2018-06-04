@@ -1,1 +1,1 @@
-bye bye microsoft. please visit https://git.osuv.de/m/markuman/gug
+bye bye microsoft. please visit https://git.osuv.de/m/gug
